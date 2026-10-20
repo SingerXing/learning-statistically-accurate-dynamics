@@ -23,6 +23,7 @@ This research investigates how learned low-dimensional dynamical models can inco
 | [Research poster](poster/research-poster.pdf) | A compact visual overview of the team's motivation, framework, FHN results, and future work. |
 | [Final report](report/final-report.pdf) | The team's research narrative, methodology, results, and references. |
 | [Methods walkthrough](docs/methods-walkthrough.md) | A code-free companion explaining the baseline, statistical observations, two extension approaches, and proposed filtering stage. Adapted from the original Overleaf walkthrough; not a verbatim copy. |
+| [Research narrative](docs/research-narrative.pdf) | Expanded working notes explaining the motivation, baseline, statistical-observation extensions, and proposed EnKF stage. |
 
 The walkthrough distinguishes the eight learned coordinates from physical or statistical observations and explains how the observation dimensions depend on the chosen configuration. Its source notes identify details that differ between the original documents. It summarizes team work without assigning individual ownership of particular experiments.
 

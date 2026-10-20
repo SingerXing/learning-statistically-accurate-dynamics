@@ -48,3 +48,13 @@ Source files used for the local build:
 | `Poster/LogoA.png` | `83a1cda8f0902cbe9774adede678ec30842f65e50fc79bbfff394e6515c747f6` |
 | `Poster/figure/method_diagram.png` | `b4680cb5f48d21b0045052a1408a8585fcf286afd0778e0fba52d3fe31349907` |
 | `Poster/results/LabellessFHNResults.png` | `1a500b965abed7a305f26e2041792fd2e57c75e365bb9d167dfd476ca5aeb5d2` |
+
+## Research narrative
+
+`docs/research-narrative.pdf` contains the ten research pages exported on October 19, 2026 from the research tab (`t.is72mosq307v`) in Singer Xing's Google Docs master document. Other tabs and the automatically generated tab divider are excluded.
+
+The wording, figures, and layout are preserved. Ten subscript-t characters that appeared as missing-glyph boxes in Google's PDF export were repaired locally with an embedded font. No Google Docs or shared Overleaf content was edited.
+
+These explanatory working notes include unresolved verification items and accompany the original research materials. They do not establish additional completed experiments; full EnKF implementation remains future work.
+
+Research narrative PDF SHA-256: `0b82808e9651624c1d61a24dd90021ba6dc45ae6416818fd77a8fbbef14c1925`.
